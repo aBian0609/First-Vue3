@@ -8,8 +8,7 @@
 export default {
   name: 'Left',
   props: {
-    msg: String,
-    tag: "master"
+    msg: String
   }
 }
 </script>
