@@ -10,7 +10,7 @@ I six six six
 
 ## Project setup
 ```
-npm install
+npm in stall
 ```
 
 ### Compiles and hot-reloads for development
